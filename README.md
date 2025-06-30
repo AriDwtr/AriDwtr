@@ -1,6 +1,6 @@
 ### Hi there, ARI DWIANTORO 👋 
 
-## I'm a Junior Programmer, Developer, and Teacher!!
+## I'm a Senior Programmer, Developer, and Teacher!!
 
 - 🔭 I always learn new things about the world of website and mobile programming
 - 🌱 I learned to use youtube tutorials and forums
